@@ -1,4 +1,4 @@
-# Kaggle_competition
+# Kaggle Competition
 Here is the code for the "Google - Fast or Slow? Predict AI Model Runtime" competition, where we achieved a silver medal.
 
 ## implementation
